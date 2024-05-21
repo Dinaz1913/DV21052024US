@@ -1,0 +1,15 @@
+{
+    "name": "reel222z/url_shorten",
+    "description": "you ask user for URL long form, and return short URL",
+    "type": "project",
+    "require": {
+        "guzzlehttp/guzzle": "^7.8"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dean Vas"
+        }
+    ],
+    "minimum-stability": "stable"
+}
